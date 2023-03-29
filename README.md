@@ -4,7 +4,7 @@
 Hello, my name is Savio Dias and I am a student at [FCRIT University](https://fcrit.ac.in/) majoring in Computer Science. I am a frontend developer interested in Ui Designing and a Open Source Enthusiast. My technology stack involves C, C++, Javascript, HTML/CSS/Bootstrap, Tailwind, React. 
 
 <!-- - 🔭 I’m currently Contributing to asyncapi and layer5 -->
-- 💬 Brainstorm with me over tech, algorithms, career, and music 
+- 💬 Brainstorm with me over tech, algorithms, career and designing.
 - 📫 How to reach me: diassavio629@gmail.com
 - 📝 [Resume](https://drive.google.com/file/d/1pznoNsudbWWMpml0by3KZal1prRQ9bvy/view?usp=sharing)
 
