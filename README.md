@@ -16,7 +16,7 @@ Hello, my name is Savio Dias and I am a student at [FCRIT University](https://fc
 </p>
 
 
-![Savio Dias's GitHub stats](https://github-readme-stats.vercel.app/api?username=Savio629&theme=tokyonight&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Savio629&hide_progress=true)
+![Savio Dias's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Savio629&theme=tokyonight&show_icons=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Savio629&hide_progress=true)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Savio629.Savio629)
