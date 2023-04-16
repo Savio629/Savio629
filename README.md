@@ -6,7 +6,7 @@ Hello, my name is Savio Dias and I am a student at [FCRIT University](https://fc
 <!-- - 🔭 I’m currently Contributing to asyncapi and layer5 -->
 - 💬 Brainstorm with me over tech, algorithms, career and designing.
 - 📫 How to reach me: diassavio629@gmail.com
-- 📝 [Resume](https://drive.google.com/file/d/1pznoNsudbWWMpml0by3KZal1prRQ9bvy/view?usp=sharing)
+<!-- - 📝 [Resume](https://drive.google.com/file/d/1pznoNsudbWWMpml0by3KZal1prRQ9bvy/view?usp=sharing) -->
 
 **Languages and Tools:** 
 <p align="center">
