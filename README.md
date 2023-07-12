@@ -7,7 +7,7 @@ I am a second year undergrad student at [FCRIT University](https://fcrit.ac.in/)
 
 - 💬 Brainstorm with me over tech, algorithms, open source and designing.
 - 📫 How to reach me: diassavio629@gmail.com
-<!-- - 📝 [Resume](https://drive.google.com/file/d/1pznoNsudbWWMpml0by3KZal1prRQ9bvy/view?usp=sharing) -->
+
 
 ## Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
