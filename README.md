@@ -3,7 +3,7 @@
 
 I am a third year undergrad student at [FCRIT University](https://fcrit.ac.in/) majoring in Computer Science. I am a full stack developer and a Open Source Enthusiast. My technology stack involves C, C++, Javascript, HTML/CSS/Bootstrap, Tailwind, React, Express, NodeJS. 
 
-🔭 I’m currently a GSoC'23 Mentee [@asyncapi](https://github.com/asyncapi) under [@postmanlabs](https://github.com/postmanlabs) and a community member [@layer5](https://github.com/layer5io) and [@meshery](https://github.com/meshery) 🔭
+🔭 I was GSoC'23 Mentee [@asyncapi](https://github.com/asyncapi) under [@postmanlabs](https://github.com/postmanlabs) and am a community member [@layer5](https://github.com/layer5io) and [@meshery](https://github.com/meshery) 🔭
 
 - 💬 Brainstorm with me over tech, algorithms, open source and designing.
 - 📫 How to reach me: diassavio629@gmail.com
