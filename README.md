@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Savio Dias! ⚡
 
 
-I am a third year undergrad student at [FCRIT University](https://fcrit.ac.in/) majoring in Computer Science. I am a full stack developer and a Open Source Enthusiast. My technology stack involves C, C++, Javascript, HTML/CSS/Bootstrap, Tailwind, React, Express, NodeJS, NestJs, Typescript, Docker. 
+I am a final year undergrad student at [FCRIT University](https://fcrit.ac.in/) majoring in Computer Science. I am a full stack developer and a Open Source Enthusiast. My technology stack involves C, C++, Javascript, HTML/CSS/Bootstrap, Tailwind, React, Express, NodeJS, NestJs, Typescript, Docker. 
 
 ⭐ C4GT'24 [@samagra](https://github.com/SamagraX-Stencil)
 
