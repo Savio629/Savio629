@@ -1,11 +1,11 @@
 ### Hi there 👋, I am Savio Dias! ⚡
 
 
-I am a final year undergrad student at [FCRIT University](https://fcrit.ac.in/) majoring in Computer Science. I am a full stack developer and a Open Source Enthusiast. My technology stack involves C, C++, Javascript, HTML/CSS/Bootstrap, Tailwind, React, Express, NodeJS, NestJs, Typescript, Docker. 
+I am a final year undergrad student at [FCRIT University](https://fcrit.ac.in/) majoring in Computer Science. I am a full stack developer and a Open Source Enthusiast. My technology stack involves C, C++, Javascript, HTML/CSS/Bootstrap, Tailwind, React, Express, NodeJS, NestJs, Typescript, Docker and more. 
 
 ⭐ C4GT'24 [@samagra](https://github.com/SamagraX-Stencil)
 
-🚀Postman Student Leader
+🚀 Postman Student Leader
 
 🔭 GSoC'23 Mentee [@asyncapi](https://github.com/asyncapi) under [@postmanlabs](https://github.com/postmanlabs) 
 
@@ -23,7 +23,7 @@ I am a final year undergrad student at [FCRIT University](https://fcrit.ac.in/) 
 **Languages and Tools:** 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,react,tailwind,nodejs,vscode,git,github,figma" />
+    <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,tailwind,nodejs,python,vscode,git,github,figma,grafana,nestjs,jest,aws,googlecloud,docker,mongodb,firebase,githubactions" />
   </a>
 </p>
 
