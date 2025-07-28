@@ -1,7 +1,9 @@
 ### Hi there 👋, I am Savio Dias! ⚡
 
 
-I am a final year undergrad student at [FCRIT University](https://fcrit.ac.in/) majoring in Computer Science. I am a full stack developer and a Open Source Enthusiast. My technology stack involves C, C++, Javascript, HTML/CSS/Bootstrap, Tailwind, React, Express, NodeJS, NestJs, Typescript, Docker and more. 
+Hi, I’m Savio Dias, a Backend Engineer at BrowserStack with a background in Computer Science. I’m passionate about building scalable backend systems, contributing to open-source projects, and occasionally exploring UI/UX design to improve user experiences. 👨‍💻
+
+Always open to connecting, collaborating, or chatting about tech. 🚀 
 
 ⭐ C4GT'24 [@samagra](https://github.com/SamagraX-Stencil)
 
